@@ -1,2 +1,2 @@
 # PLDU-Augmented
-## The dataset will be published soon.
+Our augmented dataset, based on the PLDU validation dataset, simulates usage scenarios under extreme conditions such as fog, snow, bright light, and motion blur. This dataset can be used to validate the robustness of power line semantic segmentation models.
